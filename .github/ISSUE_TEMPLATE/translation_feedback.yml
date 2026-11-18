@@ -1,0 +1,19 @@
+name: 翻譯勘誤與潤飾建議 (Translation Feedback)
+description: 回報錯別字、缺字、語氣問題或與《黑帝斯 II》不一致的專有名詞
+title: "[Translation] "
+labels: ["translation"]
+body:
+  - type: input
+    id: location
+    attributes:
+      label: 出現位置（場景、對話對象、祝福或武器名稱）
+      placeholder: "例如：至福樂土對話 / 狄德勒斯之錘 / 設定選單"
+    validations:
+      required: true
+  - type: textarea
+    id: current_text
+    attributes:
+      label: 目前看到的文字與問題
+      placeholder: "請貼上目前看到的台詞或截圖重點，以及建議修正內容"
+    validations:
+      required: true

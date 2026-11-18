@@ -1,0 +1,620 @@
+[
+  {
+    "Id": "Armor",
+    "EN": "Armor",
+    "H1_CN": "护甲",
+    "H2_TW": "護甲"
+  },
+  {
+    "Id": "ArmorBreak",
+    "EN": "BREAK!!",
+    "H1_CN": "破防！",
+    "H2_TW": "擊穿護甲！"
+  },
+  {
+    "Id": "Attack",
+    "EN": "Attack",
+    "H1_CN": "普通攻击",
+    "H2_TW": "攻擊"
+  },
+  {
+    "Id": "AwardMenuLocked",
+    "EN": "Locked!",
+    "H1_CN": "已上锁！",
+    "H2_TW": "已上鎖！"
+  },
+  {
+    "Id": "BackstabHit",
+    "EN": "Backstab!",
+    "H1_CN": "背刺！",
+    "H2_TW": "背刺！"
+  },
+  {
+    "Id": "BarricadeOpened",
+    "EN": "Passage Unlocked!",
+    "H1_CN": "通道解锁！",
+    "H2_TW": "通道解鎖！"
+  },
+  {
+    "Id": "BedroomIntermissionMessage",
+    "EN": "LATER...",
+    "H1_CN": "后来……",
+    "H2_TW": "時光流逝⋯⋯"
+  },
+  {
+    "Id": "BiomeSpeedShrineUpgrade_0",
+    "EN": "∞",
+    "H1_CN": "∞",
+    "H2_TW": "∞"
+  },
+  {
+    "Id": "BladeRift",
+    "EN": "Blade Rift",
+    "H1_CN": "剑刃旋风",
+    "H2_TW": "飛刃渦旋"
+  },
+  {
+    "Id": "BlockHit",
+    "EN": "Blocked!",
+    "H1_CN": "格挡！",
+    "H2_TW": "格擋！"
+  },
+  {
+    "Id": "BloodlessGrenadier",
+    "EN": "Inferno-Bomber",
+    "H1_CN": "炼狱火药僵尸",
+    "H2_TW": "煉獄炸彈客"
+  },
+  {
+    "Id": "BloodlessNaked",
+    "EN": "Bloodless",
+    "H1_CN": "无血僵尸",
+    "H2_TW": "無血骸"
+  },
+  {
+    "Id": "BloodlessPitcher",
+    "EN": "Burn-Flinger",
+    "H1_CN": "烈焰投手僵尸",
+    "H2_TW": "擲焰魔"
+  },
+  {
+    "Id": "BloodlessSelfDestruct",
+    "EN": "Slam-Dancer",
+    "H1_CN": "烟火爆舞僵尸",
+    "H2_TW": "爆舞魔"
+  },
+  {
+    "Id": "BloodlessWaveFist",
+    "EN": "Wave-Maker",
+    "H1_CN": "暗波投手僵尸",
+    "H2_TW": "造浪骸"
+  },
+  {
+    "Id": "BodySlamHit",
+    "EN": "Body Slam!",
+    "H1_CN": "相撞！",
+    "H2_TW": "相撞！"
+  },
+  {
+    "Id": "Cast",
+    "EN": "Cast",
+    "H1_CN": "投弹",
+    "H2_TW": "法陣"
+  },
+  {
+    "Id": "ChallengeSwitch",
+    "EN": "Infernal Trove",
+    "H1_CN": "地狱宝藏",
+    "H2_TW": "地獄寶藏"
+  },
+  {
+    "Id": "ChallengeSwitchBlockedByEncounter",
+    "EN": "Cannot Unseal Yet!",
+    "H1_CN": "无法打开！",
+    "H2_TW": "無法解封！"
+  },
+  {
+    "Id": "Charm",
+    "EN": "Charm",
+    "H1_CN": "魅惑",
+    "H2_TW": "魅惑"
+  },
+  {
+    "Id": "Charon_Full",
+    "EN": "Charon, Stygian Boatman",
+    "H1_CN": "冥河摆渡人卡戎",
+    "H2_TW": "冥河擺渡人 卡戎"
+  },
+  {
+    "Id": "Cloud",
+    "EN": "Festive Fog",
+    "H1_CN": "欢庆迷雾",
+    "H2_TW": "歡慶迷霧"
+  },
+  {
+    "Id": "Combat_Dodge",
+    "EN": "Dodged!",
+    "H1_CN": "闪避！",
+    "H2_TW": "閃避！"
+  },
+  {
+    "Id": "Combat_Invulnerable",
+    "EN": "Impervious!",
+    "H1_CN": "无敌！",
+    "H2_TW": "無敵！"
+  },
+  {
+    "Id": "Common",
+    "EN": "Common",
+    "H1_CN": "普通",
+    "H2_TW": "普通"
+  },
+  {
+    "Id": "Crawler",
+    "EN": "Crawler",
+    "H1_CN": "爬虫",
+    "H2_TW": "鼠獸"
+  },
+  {
+    "Id": "Crit",
+    "EN": "Critical",
+    "H1_CN": "暴击",
+    "H2_TW": "暴擊"
+  },
+  {
+    "Id": "CriticalHit",
+    "EN": "Critical!",
+    "H1_CN": "暴击！",
+    "H2_TW": "暴擊！"
+  },
+  {
+    "Id": "Dash",
+    "EN": "Dash",
+    "H1_CN": "冲刺",
+    "H2_TW": "衝刺"
+  },
+  {
+    "Id": "DeathWeapon",
+    "EN": "Inferno-Bomb",
+    "H1_CN": "地狱炸弹",
+    "H2_TW": "煉獄炸彈"
+  },
+  {
+    "Id": "Deflect",
+    "EN": "Deflect",
+    "H1_CN": "反弹",
+    "H2_TW": "反彈"
+  },
+  {
+    "Id": "Dodge",
+    "EN": "Dodge",
+    "H1_CN": "闪避",
+    "H2_TW": "閃避"
+  },
+  {
+    "Id": "EasyModeUpgradedTitle",
+    "EN": "Godhood Gained",
+    "H1_CN": "已成神",
+    "H2_TW": "神功護體"
+  },
+  {
+    "Id": "Encounter",
+    "EN": "Encounter(s)",
+    "H1_CN": "遭遇战",
+    "H2_TW": "遭遇戰"
+  },
+  {
+    "Id": "EncounterAlt",
+    "EN": "Encounter",
+    "H1_CN": "遭遇战",
+    "H2_TW": "遭遇戰"
+  },
+  {
+    "Id": "EncounterPlural",
+    "EN": "Encounters",
+    "H1_CN": "遭遇战",
+    "H2_TW": "遭遇戰"
+  },
+  {
+    "Id": "ExitBlockedByBoon",
+    "EN": "Collect Reward!",
+    "H1_CN": "收集奖励！",
+    "H2_TW": "領取獎勵！"
+  },
+  {
+    "Id": "ExitBlockedByEnemies",
+    "EN": "Foes Nearby!",
+    "H1_CN": "附近发现敌人！",
+    "H2_TW": "敵人出沒！"
+  },
+  {
+    "Id": "ExitBlockedByHeal",
+    "EN": "Collect Reward!",
+    "H1_CN": "收集奖励！",
+    "H2_TW": "領取獎勵！"
+  },
+  {
+    "Id": "ExitBlockedByReprieve",
+    "EN": "Use the Fountain!",
+    "H1_CN": "先喝泉水！",
+    "H2_TW": "飲用泉水！"
+  },
+  {
+    "Id": "ExitNotActive",
+    "EN": "Exit Blocked!",
+    "H1_CN": "出口堵塞！",
+    "H2_TW": "此路不通！"
+  },
+  {
+    "Id": "FishingPoint",
+    "EN": "Fishing Point",
+    "H1_CN": "钓鱼点",
+    "H2_TW": "釣魚點"
+  },
+  {
+    "Id": "Fishing_SuccessGoodTitle",
+    "EN": "CATCH!",
+    "H1_CN": "上钩！",
+    "H2_TW": "捕獲！"
+  },
+  {
+    "Id": "Fountain",
+    "EN": "Fountain",
+    "H1_CN": "泉水",
+    "H2_TW": "泉水"
+  },
+  {
+    "Id": "FountainPlural",
+    "EN": "Fountains",
+    "H1_CN": "泉水",
+    "H2_TW": "泉水"
+  },
+  {
+    "Id": "GainedBouldyBlessing",
+    "EN": ". . . .",
+    "H1_CN": "……",
+    "H2_TW": "⋯⋯"
+  },
+  {
+    "Id": "GodBoon",
+    "EN": "Boon",
+    "H1_CN": "祝福",
+    "H2_TW": "祝福"
+  },
+  {
+    "Id": "GodBoonPlural",
+    "EN": "Boons",
+    "H1_CN": "祝福",
+    "H2_TW": "祝福"
+  },
+  {
+    "Id": "GodMode",
+    "EN": "God Mode",
+    "H1_CN": "神力模式",
+    "H2_TW": "神力模式"
+  },
+  {
+    "Id": "GodModeTrait",
+    "EN": "Deus Ex Machina",
+    "H1_CN": "天外飞仙",
+    "H2_TW": "天外救星"
+  },
+  {
+    "Id": "HealthGate",
+    "EN": "Chaos Gate",
+    "H1_CN": "混沌之门",
+    "H2_TW": "渾沌之門"
+  },
+  {
+    "Id": "HealthGatePlural",
+    "EN": "Chaos Gates",
+    "H1_CN": "混沌之门",
+    "H2_TW": "渾沌之門"
+  },
+  {
+    "Id": "Hint_ExtraChance",
+    "EN": "Death Defied!",
+    "H1_CN": "死里逃生！",
+    "H2_TW": "絕處逢生！"
+  },
+  {
+    "Id": "Hint_LastChance",
+    "EN": "Last Chance!",
+    "H1_CN": "最后机会！",
+    "H2_TW": "最後機會！"
+  },
+  {
+    "Id": "HitShields",
+    "EN": "Resisted!",
+    "H1_CN": "免伤害！",
+    "H2_TW": "免傷！"
+  },
+  {
+    "Id": "Invulnerable",
+    "EN": "Impervious",
+    "H1_CN": "无敌",
+    "H2_TW": "無敵"
+  },
+  {
+    "Id": "Keepsakes",
+    "EN": "Keepsakes",
+    "H1_CN": "信物",
+    "H2_TW": "信物"
+  },
+  {
+    "Id": "LavaKill",
+    "EN": "Magma Kill!",
+    "H1_CN": "岩浆杀！",
+    "H2_TW": "岩漿殺！"
+  },
+  {
+    "Id": "Location_Secret",
+    "EN": "CHAOS",
+    "H1_CN": "混沌世界",
+    "H2_TW": "渾沌之地"
+  },
+  {
+    "Id": "LoungeIntermissionMessage",
+    "EN": "TIME PASSES...",
+    "H1_CN": "时光流逝……",
+    "H2_TW": "時光流逝⋯⋯"
+  },
+  {
+    "Id": "Mark",
+    "EN": "Marked",
+    "H1_CN": "标记",
+    "H2_TW": "標靶"
+  },
+  {
+    "Id": "MaxedRelationship",
+    "EN": "BOND FORGED",
+    "H1_CN": "结下不解之缘",
+    "H2_TW": "締結不解之緣"
+  },
+  {
+    "Id": "NPC_Achilles_01",
+    "EN": "Achilles",
+    "H1_CN": "阿喀琉斯",
+    "H2_TW": "阿基里斯"
+  },
+  {
+    "Id": "NPC_Aphrodite_01",
+    "EN": "Aphrodite",
+    "H1_CN": "阿弗洛狄忒",
+    "H2_TW": "阿芙蘿黛蒂"
+  },
+  {
+    "Id": "NPC_Ares_01",
+    "EN": "Ares",
+    "H1_CN": "阿瑞斯",
+    "H2_TW": "阿瑞斯"
+  },
+  {
+    "Id": "NPC_Athena_01",
+    "EN": "Athena",
+    "H1_CN": "雅典娜",
+    "H2_TW": "雅典娜"
+  },
+  {
+    "Id": "NPC_Cerberus_01",
+    "EN": "Cerberus",
+    "H1_CN": "刻耳柏洛斯",
+    "H2_TW": "克爾柏洛斯"
+  },
+  {
+    "Id": "NPC_Chaos_01",
+    "EN": "Chaos",
+    "H1_CN": "卡俄斯",
+    "H2_TW": "卡俄斯"
+  },
+  {
+    "Id": "NPC_Charon_01",
+    "EN": "Charon",
+    "H1_CN": "卡戎",
+    "H2_TW": "卡戎"
+  },
+  {
+    "Id": "NPC_Demeter_01",
+    "EN": "Demeter",
+    "H1_CN": "得墨忒尔",
+    "H2_TW": "荻米特"
+  },
+  {
+    "Id": "NPC_Dionysus_01",
+    "EN": "Dionysus",
+    "H1_CN": "迪奥尼索司",
+    "H2_TW": "迪奧尼西斯"
+  },
+  {
+    "Id": "NPC_Dusa_01",
+    "EN": "Dusa",
+    "H1_CN": "杜莎",
+    "H2_TW": "杜莎"
+  },
+  {
+    "Id": "NPC_Hades_01",
+    "EN": "Hades",
+    "H1_CN": "哈迪斯",
+    "H2_TW": "黑帝斯"
+  },
+  {
+    "Id": "NPC_Hermes_01",
+    "EN": "Hermes",
+    "H1_CN": "赫尔墨斯",
+    "H2_TW": "赫米斯"
+  },
+  {
+    "Id": "NPC_Hypnos_01",
+    "EN": "Hypnos",
+    "H1_CN": "修普诺斯",
+    "H2_TW": "修普諾斯"
+  },
+  {
+    "Id": "NPC_Nyx_01",
+    "EN": "Nyx",
+    "H1_CN": "倪克斯",
+    "H2_TW": "涅克絲"
+  },
+  {
+    "Id": "NPC_Orpheus_01",
+    "EN": "Orpheus",
+    "H1_CN": "俄耳甫斯",
+    "H2_TW": "俄爾甫斯"
+  },
+  {
+    "Id": "NPC_Persephone_01",
+    "EN": "Persephone",
+    "H1_CN": "珀尔塞福涅",
+    "H2_TW": "波瑟芬妮"
+  },
+  {
+    "Id": "NPC_Poseidon_01",
+    "EN": "Poseidon",
+    "H1_CN": "波塞冬",
+    "H2_TW": "波賽頓"
+  },
+  {
+    "Id": "NPC_Thanatos_01",
+    "EN": "Thanatos",
+    "H1_CN": "塔纳托斯",
+    "H2_TW": "塔納托斯"
+  },
+  {
+    "Id": "NPC_Zeus_01",
+    "EN": "Zeus",
+    "H1_CN": "宙斯",
+    "H2_TW": "宙斯"
+  },
+  {
+    "Id": "Objective_PerfectClear",
+    "EN": "Slay Foes Without Getting Hit!",
+    "H1_CN": "无伤杀敌！",
+    "H2_TW": "無傷斬群敵！"
+  },
+  {
+    "Id": "Objective_PerfectClearCleanup",
+    "EN": "Slay Remaining Foes",
+    "H1_CN": "消灭剩余敌人",
+    "H2_TW": "消滅剩餘敵人"
+  },
+  {
+    "Id": "Objective_TimeChallenge",
+    "EN": "Slay Foes Quickly!",
+    "H1_CN": "尽快杀敌！",
+    "H2_TW": "盡快殺敵！"
+  },
+  {
+    "Id": "ParryHit",
+    "EN": "Deflected!",
+    "H1_CN": "反弹！",
+    "H2_TW": "反彈！"
+  },
+  {
+    "Id": "PomPlural",
+    "EN": "Poms of Power",
+    "H1_CN": "力量石榴",
+    "H2_TW": "力量石榴"
+  },
+  {
+    "Id": "PowerShot",
+    "EN": "Power Shot",
+    "H1_CN": "强力攻击",
+    "H2_TW": "強力射擊"
+  },
+  {
+    "Id": "Rarity",
+    "EN": "Rarity",
+    "H1_CN": "稀有度",
+    "H2_TW": "稀有度"
+  },
+  {
+    "Id": "RetrieveAmmo",
+    "EN": "Retrieve This!",
+    "H1_CN": "收回此物！",
+    "H2_TW": "拾回彈藥！"
+  },
+  {
+    "Id": "RubbleSlamKill",
+    "EN": "Crushed!",
+    "H1_CN": "粉身碎骨！",
+    "H2_TW": "粉身碎骨！"
+  },
+  {
+    "Id": "SecretPassageOpened",
+    "EN": "Gate Unsealed!",
+    "H1_CN": "门已打开！",
+    "H2_TW": "封印解除！"
+  },
+  {
+    "Id": "Secrets",
+    "EN": "Chaos",
+    "H1_CN": "混沌世界",
+    "H2_TW": "渾沌之地"
+  },
+  {
+    "Id": "SpearSpinMaxMessage",
+    "EN": "Max!",
+    "H1_CN": "蓄满！",
+    "H2_TW": "蓄力已滿！"
+  },
+  {
+    "Id": "Special",
+    "EN": "Special",
+    "H1_CN": "特殊攻击",
+    "H2_TW": "技能"
+  },
+  {
+    "Id": "Swarmer",
+    "EN": "Numbskull",
+    "H1_CN": "骷髅头",
+    "H2_TW": "枯顱"
+  },
+  {
+    "Id": "ThiefMineLayer",
+    "EN": "Wretched Pest",
+    "H1_CN": "骨灰精灵",
+    "H2_TW": "殘魂害獸"
+  },
+  {
+    "Id": "Traps",
+    "EN": "Traps",
+    "H1_CN": "陷阱",
+    "H2_TW": "陷阱"
+  },
+  {
+    "Id": "UI_TraitLevel_Max",
+    "EN": "MAX",
+    "H1_CN": "顶级",
+    "H2_TW": "最大"
+  },
+  {
+    "Id": "UseBlockedByEnemies",
+    "EN": "Foes Nearby!",
+    "H1_CN": "附近发现敌人！",
+    "H2_TW": "敵人出沒！"
+  },
+  {
+    "Id": "UseBlockedByLava",
+    "EN": "Not Now!",
+    "H1_CN": "还不行！",
+    "H2_TW": "不是時候！"
+  },
+  {
+    "Id": "Weak",
+    "EN": "Weak",
+    "H1_CN": "虚弱",
+    "H2_TW": "虛弱"
+  },
+  {
+    "Id": "WeaponUnlocked_Title",
+    "EN": "New Weapon Unlocked",
+    "H1_CN": "已解锁新武器",
+    "H2_TW": "新武器已解鎖"
+  },
+  {
+    "Id": "WellShopBlockedByEncounter",
+    "EN": "Cannot Access Yet!",
+    "H1_CN": "无法进入！",
+    "H2_TW": "尚無法使用！"
+  }
+]

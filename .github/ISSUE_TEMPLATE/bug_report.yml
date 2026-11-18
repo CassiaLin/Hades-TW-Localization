@@ -1,0 +1,24 @@
+name: 安裝或遊戲問題回報 (Bug Report)
+description: 回報安裝器、字型補字、遊戲內顯示異常或崩潰問題
+title: "[Bug] "
+labels: ["bug"]
+body:
+  - type: input
+    id: platform
+    attributes:
+      label: 作業系統與 Python 版本
+      placeholder: "例如：Windows 11 / Python 3.12"
+    validations:
+      required: true
+  - type: textarea
+    id: status
+    attributes:
+      label: "`python hades_mod_cli.py player status` 輸出結果"
+      render: text
+  - type: textarea
+    id: description
+    attributes:
+      label: 問題描述與重現步驟
+      description: 請說明何時發生異常（請勿上傳遊戲主程式或完整封包檔案）
+    validations:
+      required: true

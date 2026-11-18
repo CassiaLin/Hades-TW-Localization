@@ -1,0 +1,32 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.log
+.pytest_cache/
+
+# Local player/developer workspaces, configs, backups, and build outputs
+workspace/
+config/
+dist/
+work/
+extracted/
+backup/
+output/
+scratch/
+_Backup_TW_Mod/
+
+# Copyrighted game binaries & text assets
+*.exe
+*.xnb
+*.sjson
+*.csv
+*.pkg
+*.bank
+*.bak
+
+# Credentials & local environment
+.env
+.env.*
+*.key
+*.pem

@@ -1,0 +1,16 @@
+{
+  "pack_format_version": "1.0",
+  "game": "Hades",
+  "target_locale": "zh-TW",
+  "target_slot": "zh-CN",
+  "created_at": "2026-11-18T19:15:46.539968+00:00",
+  "sjson_file_count": 18,
+  "sjson_entry_count": 12280,
+  "subtitle_file_count": 37,
+  "subtitle_entry_count": 14109,
+  "files": {
+    "languages_zh_tw.json": "420c6cd92f9a6e954fcfb85dc6ffe206dda1d8935d8b36b9a209d71457418da7",
+    "sjson_zh_tw.jsonl": "cb37978e50b484ef2c241bd39c00d9a6152c2a1d6d10f28a2aad69c6e813c0c9",
+    "subtitles_zh_tw.jsonl": "fbded94fda096f833cf9f2e1dcc8e874b20f9bd61c2ef98d7440aec11f5914f8"
+  }
+}
